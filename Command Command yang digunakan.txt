@@ -1,0 +1,6 @@
+df.shape = digunakan untuk melihat berapa jumlah coloum dan juga row yang ada pada dataset
+
+df.desribe() = digunakan untuk menjelaskan detail dari coloum" yang ada pada dataset. Dapat melihat atribut seperti count,mean,std,min.
+
+df.values = digunakan untuk melihat data yang ada pada dataset dalam tampilan array.
+
